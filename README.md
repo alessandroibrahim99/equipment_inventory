@@ -1,3 +1,3 @@
-# Covid - Canada
+# Equipment Inventory
 
 https://covidcan.herokuapp.com/
