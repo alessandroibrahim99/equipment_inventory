@@ -1,3 +1,3 @@
 # Equipment Inventory
 
-https://covidcan.herokuapp.com/
+https://equipmentinventory.herokuapp.com/
