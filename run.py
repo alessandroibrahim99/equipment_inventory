@@ -82,4 +82,4 @@ newdf = get_table()
 st.dataframe(newdf)
 print(newdf)
 
-st.map(newdf)
+#st.map(newdf)
